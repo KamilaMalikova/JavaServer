@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JavaServer.iml" filepath="$PROJECT_DIR$/JavaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaHTTPServer.iml" filepath="$PROJECT_DIR$/JavaHTTPServer.iml" />
     </modules>
   </component>
 </project>
